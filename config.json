@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchuerify",
+        "uuid": 8288131,
+        "checksum": "h8oap"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
